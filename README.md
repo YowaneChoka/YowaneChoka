@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @YowaneChoka
-- 👀 I’m interested in learning various programming languages.
-- 🌱 I’m currently learning creative ways to use CSS and JS for website styling.
+- 👀 I’m interested in learning solving real world problems through creating software products.
 - 💞️ I’m looking to collaborate on making functional open source web application.
-- 📫 How to reach me : cyowane@gmail.com
+- 📫 How to reach me : cyowane+github@gmail.com
 
 <!---
 YowaneChoka/YowaneChoka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
